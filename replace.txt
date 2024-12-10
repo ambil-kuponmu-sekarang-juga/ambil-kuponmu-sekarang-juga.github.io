@@ -1,2 +1,2 @@
-grep -rl "banking-template" . | xargs sed -i "s/banking-template/new-name/g"
-grep -rl "Banking Template" . | xargs sed -i "s/Banking Template/New Name/g"
+grep -rl "ambil-kuponmu-sekarang-juga" . | xargs sed -i "s/ambil-kuponmu-sekarang-juga/new-name/g"
+grep -rl "Ambil Kuponmu Sekarang Juga" . | xargs sed -i "s/Ambil Kuponmu Sekarang Juga/New Name/g"
